@@ -120,13 +120,13 @@ All by Geniuscrate Games:
 - [Table Set-Interior](https://assetstore.unity.com/packages/3d/props/furniture/table-set-interior-263303)
 
 ### Scripts (Tutorials & References)
-- Doors, PickUpItems - User1 Productions, [Google Drive](https://drive.google.com/drive/folders/1dAGsuK8YghYfqNv4CE773wSaRxIRlQZw)
+- Doors, PickUpItems - User1 Productions, [Horror  Tutorial Series (Unity)](https://www.youtube.com/playlist?list=PLlcgaDpDEvw05IgKGZo9FYA8Fo38RtAqH)
 - CameraHolder, PlayerCam & PlayerMovement - Dave/GameDevelopment, ["First Person Movement in 10 Minutes"](https://www.youtube.com/watch?v=f473C43s8nE&t=346s)
 - PlayerMove, ObstacleCollision, EndRunSequence, GenerateLevel, LevelBoundary – Jimmy Vegas, ["Endless Runner Tutorials in Unity - Old Series"](https://www.youtube.com/playlist?list=PLZ1b66Z1KFKit4cSry_LWBisrSbVkEF4t)
 
 ### Sounds
-- PickUp, DoorOpenSound – User1 Productions, [Google Drive](https://drive.google.com/drive/folders/1RVNi_Pn8_n22tXM_DVDLHoy_nuXJm4s4)
-- SteppingOnTile_01, Dark Tension Music – User1 Productions, [Google Drive](https://drive.google.com/drive/folders/1Hp5EAu3GFToa8WHeAfwVwrIBZUvzUBRU)
+- PickUp, DoorOpenSound – User1 Productions, [Horror  Tutorial Series (Unity)](https://www.youtube.com/playlist?list=PLlcgaDpDEvw05IgKGZo9FYA8Fo38RtAqH)
+- SteppingOnTile_01, Dark Tension Music – User1 Productions, [Horror  Tutorial Series (Unity)](https://www.youtube.com/playlist?list=PLlcgaDpDEvw05IgKGZo9FYA8Fo38RtAqH)
 - Monster Chase Grunts - freesound_community, [Pixabay](https://pixabay.com/de/sound-effects/monster-chase-grunts-45476/)
 - Thunder/Lightning- II - Without Rain / Wind / Background noise. - GregorQuendel_SoundDesign, [Pixabay](https://pixabay.com/de/sound-effects/natur-thunder-lightning-ii-without-rain-wind-background-noise-136312/)
 - Rain - Falling on a wooden roof. - GregorQuendel_SoundDesign, [Pixabay](https://pixabay.com/de/sound-effects/natur-rain-falling-on-a-wooden-roof-137242/)
