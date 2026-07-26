@@ -57,7 +57,9 @@ The prototype is built around an example gameplay session that also functions as
 For the main menu, I created a dedicated scene with a canvas containing buttons. The "Play" button uses a scene-switching script to transition into the next scene, the house, while "Quit" closes the game. An additional camera, stacked with the main camera, renders the particle systems that create a fog effect along the screen edges.
 
 
-<img width="753" height="424" alt="Main_Menu" src="https://github.com/user-attachments/assets/4f7fd734-73cf-4056-8460-8bbd7cfe9597" />
+<img width="753" height="424" alt="Main_Menu" src="https://github.com/user-attachments/assets/a9d4b8aa-d673-4d87-a713-a3adea95c3d1" />
+
+
 
 
 ### 2. The House
@@ -67,7 +69,9 @@ After the scene loads, the player finds themselves as Jack in his childhood bedr
 After accepting the task inside the house, the player heads to the basement, opens the door, and triggers a transition into the next scene.
 
 
-<img width="753" height="424" alt="The_House" src="https://github.com/user-attachments/assets/fc7aa4a8-b2ca-4a13-b2a2-ea4f6a74ec44" />
+<img width="753" height="424" alt="The_House" src="https://github.com/user-attachments/assets/f34a1d8a-6e49-42df-b390-3fd653556f24" />
+
+
 
 
 ### 3. Loading Screen and Endless Runner
@@ -76,12 +80,9 @@ Triggering this transition leads to the next scene, the loading screen, from whi
 
 A script randomly assembles the level from 3 sections, building it up piece by piece as the player progresses. Colliding with an obstacle triggers a message and gives the player the option to restart the level. After 20 seconds, the level's active ability becomes available a flashlight that lets the player gain distance from the fog. The fog's hands were created in Nomad Sculpt and Blender. After 60 seconds, the level ends automatically and transitions to the next scene.
 
+<img width="753" height="425" alt="Loading_Screen" src="https://github.com/user-attachments/assets/42051e54-eef5-41b7-89f3-526c5e510346" />
 
-<img width="753" height="425" alt="Loading_Screen" src="https://github.com/user-attachments/assets/ae05f1a6-cccf-4a6c-bf2b-fa3bb1047f2c" />
-
-
-
-<img width="753" height="424" alt="Endless_Runner" src="https://github.com/user-attachments/assets/39e2bf64-ad4d-463c-85a6-3821c0959478" />
+<img width="753" height="424" alt="Endless_Runner" src="https://github.com/user-attachments/assets/b98644b3-f384-44be-8600-df12642418db" />
 
 
 
@@ -90,7 +91,7 @@ A script randomly assembles the level from 3 sections, building it up piece by p
 The player then returns to the house, this time in the basement a new scene rather than the same one from Scene 2. This is because I wanted certain changes to the house to only become visible after completing the level. Opening the skill tree, now located in Jack's room, simulates distributing the XP earned during the level. This is displayed via a video player texture rendered on a canvas. Closing the skill tree leads to an end screen, concluding the session.
 
 
-<img width="755" height="427" alt="Skill-Tree" src="https://github.com/user-attachments/assets/922817c6-b712-4050-aaa2-bf4eea3c1c30" />
+<img width="755" height="427" alt="Skill-Tree" src="https://github.com/user-attachments/assets/91eebe54-73ea-4947-8958-23a8da0808e1" />
 
 
 
