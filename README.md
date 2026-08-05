@@ -43,7 +43,9 @@ Haunted Brain is a hybrid of an open-world exploration game and a fast-paced pla
 *Click the image to play the video*
 
 ## Play the Prototype
+
 [Play on itch.io](https://mol96.itch.io/haunted-brain-prototype)<br>
+
 Password: HauntedBrain
 
 *Windows build – download, unzip, and run the .exe*
